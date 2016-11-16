@@ -3,3 +3,18 @@
 *.exe
 *.elf
 
+*.jpg
+*.jpeg
+
+
+
+# github
+# https://github.com/miernota/naukaWWW.git
+
+# bitbucket
+# git remote add bitbucket 'https://galicius@bitbucket.org/galicius/naukawww.git'
+
+# gitlab
+# https://gitlab.com/miernota/naukaWWW.git
+
+
